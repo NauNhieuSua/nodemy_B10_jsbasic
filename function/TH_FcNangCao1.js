@@ -30,3 +30,4 @@ function dangKy(username,password){
 
 dangKy('thanhhai','12345678')
 console.log(data);
+//
